@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Collina Sports">
+  <defs>
+    <path id="top" d="M 32 100 A 68 68 0 0 1 168 100"/>
+    <path id="bot" d="M 34 104 A 66 66 0 0 0 166 104"/>
+  </defs>
+  <circle cx="100" cy="100" r="98" fill="#1d2a24"/>
+  <path d="M29 59 A82 82 0 0 0 29 141 M171 59 A82 82 0 0 1 171 141" fill="none" stroke="#f3eee3" stroke-width="1.6" stroke-linecap="round"/>
+  <text font-family="Archivo, Arial, sans-serif" font-weight="700" font-size="17" letter-spacing="6" fill="#f3eee3" text-anchor="middle">
+    <textPath href="#top" startOffset="50%">COLLINA</textPath>
+  </text>
+  <text font-family="Archivo, Arial, sans-serif" font-weight="700" font-size="17" letter-spacing="6" fill="#f3eee3" text-anchor="middle" dominant-baseline="hanging">
+    <textPath href="#bot" startOffset="50%" side="right">SPORTS</textPath>
+  </text>
+  <circle cx="100" cy="100" r="44" fill="#f3eee3"/>
+  <path d="M 70 118 C 70 86, 96 70, 120 78 C 136 84, 140 100, 132 112 C 124 124, 104 122, 100 110 C 96 98, 108 92, 116 98" fill="none" stroke="#1d2a24" stroke-width="11" stroke-linecap="round"/>
+  <path d="M 66 128 C 86 116, 112 116, 136 128" fill="none" stroke="#1d2a24" stroke-width="7" stroke-linecap="round"/>
+</svg>
